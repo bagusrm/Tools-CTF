@@ -26,7 +26,7 @@ parsing, hex dump instead of disassembly).
 **Interactive mode** (recommended — matches the `FLAG>` shell style):
 
 ```bash
-python3 ctf_toolkit.py
+python3 flag.py
 ```
 
 Then inside the shell:
